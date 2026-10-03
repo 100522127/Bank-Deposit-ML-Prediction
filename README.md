@@ -20,3 +20,5 @@ A complete end-to-end Machine Learning project designed to predict whether a cli
 ## Installation and Usage
 1. Clone this repository on your local machine.
 2. Install the necessary dependencies by running:
+```bash
+pip install pandas numpy scikit-learn scipy matplotlib
